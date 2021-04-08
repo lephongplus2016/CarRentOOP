@@ -1,0 +1,2 @@
+- Sử dụng Microsoft SQL Server chạy file script "rentcardb" để tạo cơ sở dữ liệu cho hệ thống.
+- Thay đổi connection link trong class Data Provider để chạy ứng dụng.

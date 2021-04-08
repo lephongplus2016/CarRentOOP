@@ -1,0 +1,121 @@
+D:\Học tập\Lập trình hướng đối tượng\RentCar\RentCar\bin\Debug\RentCar.exe.config
+D:\Học tập\Lập trình hướng đối tượng\RentCar\RentCar\bin\Debug\RentCar.exe
+D:\Học tập\Lập trình hướng đối tượng\RentCar\RentCar\bin\Debug\RentCar.pdb
+D:\Học tập\Lập trình hướng đối tượng\RentCar\RentCar\obj\Debug\RentCar.csprojAssemblyReference.cache
+D:\Học tập\Lập trình hướng đối tượng\RentCar\RentCar\obj\Debug\RentCar.AddCar.resources
+D:\Học tập\Lập trình hướng đối tượng\RentCar\RentCar\obj\Debug\RentCar.Main.resources
+D:\Học tập\Lập trình hướng đối tượng\RentCar\RentCar\obj\Debug\RentCar.Properties.Resources.resources
+D:\Học tập\Lập trình hướng đối tượng\RentCar\RentCar\obj\Debug\RentCar.csproj.GenerateResource.cache
+D:\Học tập\Lập trình hướng đối tượng\RentCar\RentCar\obj\Debug\RentCar.csproj.CoreCompileInputs.cache
+D:\Học tập\Lập trình hướng đối tượng\RentCar\RentCar\obj\Debug\RentCar.exe
+D:\Học tập\Lập trình hướng đối tượng\RentCar\RentCar\obj\Debug\RentCar.pdb
+C:\Users\lepho\Desktop\not sure what to do yet\code\oop\ass\w4 winform\RentCar (1)\RentCar\RentCar\bin\Debug\RentCar.exe.config
+C:\Users\lepho\Desktop\not sure what to do yet\code\oop\ass\w4 winform\RentCar (1)\RentCar\RentCar\bin\Debug\RentCar.exe
+C:\Users\lepho\Desktop\not sure what to do yet\code\oop\ass\w4 winform\RentCar (1)\RentCar\RentCar\bin\Debug\RentCar.pdb
+C:\Users\lepho\Desktop\not sure what to do yet\code\oop\ass\w4 winform\RentCar (1)\RentCar\RentCar\obj\Debug\RentCar.csprojAssemblyReference.cache
+C:\Users\lepho\Desktop\not sure what to do yet\code\oop\ass\w4 winform\RentCar (1)\RentCar\RentCar\obj\Debug\RentCar.AddCar.resources
+C:\Users\lepho\Desktop\not sure what to do yet\code\oop\ass\w4 winform\RentCar (1)\RentCar\RentCar\obj\Debug\RentCar.Main.resources
+C:\Users\lepho\Desktop\not sure what to do yet\code\oop\ass\w4 winform\RentCar (1)\RentCar\RentCar\obj\Debug\RentCar.Properties.Resources.resources
+C:\Users\lepho\Desktop\not sure what to do yet\code\oop\ass\w4 winform\RentCar (1)\RentCar\RentCar\obj\Debug\RentCar.csproj.GenerateResource.cache
+C:\Users\lepho\Desktop\not sure what to do yet\code\oop\ass\w4 winform\RentCar (1)\RentCar\RentCar\obj\Debug\RentCar.csproj.CoreCompileInputs.cache
+C:\Users\lepho\Desktop\not sure what to do yet\code\oop\ass\w4 winform\RentCar (1)\RentCar\RentCar\obj\Debug\RentCar.exe
+C:\Users\lepho\Desktop\not sure what to do yet\code\oop\ass\w4 winform\RentCar (1)\RentCar\RentCar\obj\Debug\RentCar.pdb
+C:\Users\lepho\Desktop\not sure what to do yet\code\oop\ass\w4 winform\RentCar (1)\RentCar\RentCar\obj\Debug\RentCar.AddContract.resources
+C:\Users\lepho\Desktop\not sure what to do yet\code\oop\ass\w4 winform\RentCar (1)\RentCar\RentCar\obj\Debug\RentCar.AddCustomer.resources
+D:\Học tập\Lập trình hướng đối tượng\w5 winform\w5 winform\RentCar (1)\RentCar\RentCar\obj\Debug\RentCar.csprojAssemblyReference.cache
+D:\Học tập\Lập trình hướng đối tượng\w5 winform\w5 winform\RentCar (1)\RentCar\RentCar\obj\Debug\RentCar.AddCar.resources
+D:\Học tập\Lập trình hướng đối tượng\w5 winform\w5 winform\RentCar (1)\RentCar\RentCar\obj\Debug\RentCar.AddContract.resources
+D:\Học tập\Lập trình hướng đối tượng\w5 winform\w5 winform\RentCar (1)\RentCar\RentCar\obj\Debug\RentCar.AddCustomer.resources
+D:\Học tập\Lập trình hướng đối tượng\w5 winform\w5 winform\RentCar (1)\RentCar\RentCar\obj\Debug\RentCar.Main.resources
+D:\Học tập\Lập trình hướng đối tượng\w5 winform\w5 winform\RentCar (1)\RentCar\RentCar\obj\Debug\RentCar.Properties.Resources.resources
+D:\Học tập\Lập trình hướng đối tượng\w5 winform\w5 winform\RentCar (1)\RentCar\RentCar\obj\Debug\RentCar.csproj.GenerateResource.cache
+D:\Học tập\Lập trình hướng đối tượng\w5 winform\w5 winform\RentCar (1)\RentCar\RentCar\obj\Debug\RentCar.csproj.CoreCompileInputs.cache
+D:\Học tập\Lập trình hướng đối tượng\w5 winform\w5 winform\RentCar (1)\RentCar\RentCar\obj\Debug\RentCar.exe
+D:\Học tập\Lập trình hướng đối tượng\w5 winform\w5 winform\RentCar (1)\RentCar\RentCar\obj\Debug\RentCar.pdb
+D:\Học tập\Lập trình hướng đối tượng\w5 winform\w5 winform\RentCar (1)\RentCar\RentCar\bin\Debug\RentCar.exe.config
+D:\Học tập\Lập trình hướng đối tượng\w5 winform\w5 winform\RentCar (1)\RentCar\RentCar\bin\Debug\RentCar.exe
+D:\Học tập\Lập trình hướng đối tượng\w5 winform\w5 winform\RentCar (1)\RentCar\RentCar\bin\Debug\RentCar.pdb
+D:\Học tập\Lập trình hướng đối tượng\w5 winform\w5 winform\RentCar (1)\RentCar\RentCar\obj\Debug\RentCar.fCustomer.resources
+D:\Học tập\Lập trình hướng đối tượng\w5 winform\w5 winform\RentCar (1)\RentCar\RentCar\obj\Debug\RentCar.fVehicle.resources
+D:\Học tập\Lập trình hướng đối tượng\w5 winform\w5 winform\RentCar (1)\RentCar\RentCar\obj\Debug\RentCar.fContract.resources
+D:\Học tập\Lập trình hướng đối tượng\w5 winform\w5 winform\RentCar (1)\RentCar\RentCar\obj\Debug\RentCar.fService.resources
+D:\Học tập\Lập trình hướng đối tượng\w5 winform\w5 winform\RentCar (1)\RentCar\RentCar\obj\Debug\RentCar.fVehicleService.resources
+D:\Học tập\Lập trình hướng đối tượng\w5 winform\w5 winform\RentCar (1)\RentCar\RentCar\obj\Debug\RentCar.fServiceHistory.resources
+D:\Học tập\Lập trình hướng đối tượng\w5 winform\w5 winform\RentCar (1)\RentCar\RentCar\obj\Debug\RentCar.fLogin.resources
+D:\Học tập\Lập trình hướng đối tượng\w5 winform\w5 winform\RentCar (1)\RentCar\RentCar\obj\Debug\RentCar.fRegister.resources
+D:\Học tập\Lập trình hướng đối tượng\w5 winform\w5 winform\RentCar (1)\RentCar\RentCar\obj\Debug\RentCar.fCustomerView.resources
+C:\Users\lepho\Desktop\not sure what to do yet\code\oop\ass\final\ngay 5-12\Lập trình hướng đối tượng\w5 winform\w5 winform\RentCar (1)\RentCar\RentCar\bin\Debug\RentCar.exe.config
+C:\Users\lepho\Desktop\not sure what to do yet\code\oop\ass\final\ngay 5-12\Lập trình hướng đối tượng\w5 winform\w5 winform\RentCar (1)\RentCar\RentCar\bin\Debug\RentCar.exe
+C:\Users\lepho\Desktop\not sure what to do yet\code\oop\ass\final\ngay 5-12\Lập trình hướng đối tượng\w5 winform\w5 winform\RentCar (1)\RentCar\RentCar\bin\Debug\RentCar.pdb
+C:\Users\lepho\Desktop\not sure what to do yet\code\oop\ass\final\ngay 5-12\Lập trình hướng đối tượng\w5 winform\w5 winform\RentCar (1)\RentCar\RentCar\obj\Debug\RentCar.csprojAssemblyReference.cache
+C:\Users\lepho\Desktop\not sure what to do yet\code\oop\ass\final\ngay 5-12\Lập trình hướng đối tượng\w5 winform\w5 winform\RentCar (1)\RentCar\RentCar\obj\Debug\RentCar.AddCar.resources
+C:\Users\lepho\Desktop\not sure what to do yet\code\oop\ass\final\ngay 5-12\Lập trình hướng đối tượng\w5 winform\w5 winform\RentCar (1)\RentCar\RentCar\obj\Debug\RentCar.AddContract.resources
+C:\Users\lepho\Desktop\not sure what to do yet\code\oop\ass\final\ngay 5-12\Lập trình hướng đối tượng\w5 winform\w5 winform\RentCar (1)\RentCar\RentCar\obj\Debug\RentCar.AddCustomer.resources
+C:\Users\lepho\Desktop\not sure what to do yet\code\oop\ass\final\ngay 5-12\Lập trình hướng đối tượng\w5 winform\w5 winform\RentCar (1)\RentCar\RentCar\obj\Debug\RentCar.fContract.resources
+C:\Users\lepho\Desktop\not sure what to do yet\code\oop\ass\final\ngay 5-12\Lập trình hướng đối tượng\w5 winform\w5 winform\RentCar (1)\RentCar\RentCar\obj\Debug\RentCar.fCustomer.resources
+C:\Users\lepho\Desktop\not sure what to do yet\code\oop\ass\final\ngay 5-12\Lập trình hướng đối tượng\w5 winform\w5 winform\RentCar (1)\RentCar\RentCar\obj\Debug\RentCar.fCustomerView.resources
+C:\Users\lepho\Desktop\not sure what to do yet\code\oop\ass\final\ngay 5-12\Lập trình hướng đối tượng\w5 winform\w5 winform\RentCar (1)\RentCar\RentCar\obj\Debug\RentCar.fLogin.resources
+C:\Users\lepho\Desktop\not sure what to do yet\code\oop\ass\final\ngay 5-12\Lập trình hướng đối tượng\w5 winform\w5 winform\RentCar (1)\RentCar\RentCar\obj\Debug\RentCar.fRegister.resources
+C:\Users\lepho\Desktop\not sure what to do yet\code\oop\ass\final\ngay 5-12\Lập trình hướng đối tượng\w5 winform\w5 winform\RentCar (1)\RentCar\RentCar\obj\Debug\RentCar.fService.resources
+C:\Users\lepho\Desktop\not sure what to do yet\code\oop\ass\final\ngay 5-12\Lập trình hướng đối tượng\w5 winform\w5 winform\RentCar (1)\RentCar\RentCar\obj\Debug\RentCar.fServiceHistory.resources
+C:\Users\lepho\Desktop\not sure what to do yet\code\oop\ass\final\ngay 5-12\Lập trình hướng đối tượng\w5 winform\w5 winform\RentCar (1)\RentCar\RentCar\obj\Debug\RentCar.fVehicle.resources
+C:\Users\lepho\Desktop\not sure what to do yet\code\oop\ass\final\ngay 5-12\Lập trình hướng đối tượng\w5 winform\w5 winform\RentCar (1)\RentCar\RentCar\obj\Debug\RentCar.fVehicleService.resources
+C:\Users\lepho\Desktop\not sure what to do yet\code\oop\ass\final\ngay 5-12\Lập trình hướng đối tượng\w5 winform\w5 winform\RentCar (1)\RentCar\RentCar\obj\Debug\RentCar.Main.resources
+C:\Users\lepho\Desktop\not sure what to do yet\code\oop\ass\final\ngay 5-12\Lập trình hướng đối tượng\w5 winform\w5 winform\RentCar (1)\RentCar\RentCar\obj\Debug\RentCar.Properties.Resources.resources
+C:\Users\lepho\Desktop\not sure what to do yet\code\oop\ass\final\ngay 5-12\Lập trình hướng đối tượng\w5 winform\w5 winform\RentCar (1)\RentCar\RentCar\obj\Debug\RentCar.csproj.GenerateResource.cache
+C:\Users\lepho\Desktop\not sure what to do yet\code\oop\ass\final\ngay 5-12\Lập trình hướng đối tượng\w5 winform\w5 winform\RentCar (1)\RentCar\RentCar\obj\Debug\RentCar.csproj.CoreCompileInputs.cache
+C:\Users\lepho\Desktop\not sure what to do yet\code\oop\ass\final\ngay 5-12\Lập trình hướng đối tượng\w5 winform\w5 winform\RentCar (1)\RentCar\RentCar\obj\Debug\RentCar.exe
+C:\Users\lepho\Desktop\not sure what to do yet\code\oop\ass\final\ngay 5-12\Lập trình hướng đối tượng\w5 winform\w5 winform\RentCar (1)\RentCar\RentCar\obj\Debug\RentCar.pdb
+C:\Users\lepho\Desktop\not sure what to do yet\code\oop\ass\final\ngay 5-12\Lập trình hướng đối tượng\w5 winform\w5 winform\RentCar (1)\RentCar\RentCar\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lepho\Desktop\not sure what to do yet\code\oop\ass\final\ngay 5-12\Lập trình hướng đối tượng\w5 winform\w5 winform\RentCar (1)\RentCar\RentCar\bin\Debug\Newtonsoft.Json.xml
+C:\Users\lepho\Desktop\not sure what to do yet\code\oop\ass\final\ngay 5-12\Lập trình hướng đối tượng\w5 winform\w5 winform\RentCar (1)\RentCar\RentCar\obj\Debug\RentCar.csproj.CopyComplete
+D:\Học tập\Lập trình hướng đối tượng\Lập trình hướng đối tượng\RentCar\RentCar\bin\Debug\RentCar.exe.config
+D:\Học tập\Lập trình hướng đối tượng\Lập trình hướng đối tượng\RentCar\RentCar\bin\Debug\RentCar.exe
+D:\Học tập\Lập trình hướng đối tượng\Lập trình hướng đối tượng\RentCar\RentCar\bin\Debug\RentCar.pdb
+D:\Học tập\Lập trình hướng đối tượng\Lập trình hướng đối tượng\RentCar\RentCar\bin\Debug\Newtonsoft.Json.dll
+D:\Học tập\Lập trình hướng đối tượng\Lập trình hướng đối tượng\RentCar\RentCar\bin\Debug\Newtonsoft.Json.xml
+D:\Học tập\Lập trình hướng đối tượng\Lập trình hướng đối tượng\RentCar\RentCar\obj\Debug\RentCar.csprojAssemblyReference.cache
+D:\Học tập\Lập trình hướng đối tượng\Lập trình hướng đối tượng\RentCar\RentCar\obj\Debug\RentCar.AddCar.resources
+D:\Học tập\Lập trình hướng đối tượng\Lập trình hướng đối tượng\RentCar\RentCar\obj\Debug\RentCar.AddContract.resources
+D:\Học tập\Lập trình hướng đối tượng\Lập trình hướng đối tượng\RentCar\RentCar\obj\Debug\RentCar.AddCustomer.resources
+D:\Học tập\Lập trình hướng đối tượng\Lập trình hướng đối tượng\RentCar\RentCar\obj\Debug\RentCar.fContract.resources
+D:\Học tập\Lập trình hướng đối tượng\Lập trình hướng đối tượng\RentCar\RentCar\obj\Debug\RentCar.fCustomer.resources
+D:\Học tập\Lập trình hướng đối tượng\Lập trình hướng đối tượng\RentCar\RentCar\obj\Debug\RentCar.fCustomerView.resources
+D:\Học tập\Lập trình hướng đối tượng\Lập trình hướng đối tượng\RentCar\RentCar\obj\Debug\RentCar.fLogin.resources
+D:\Học tập\Lập trình hướng đối tượng\Lập trình hướng đối tượng\RentCar\RentCar\obj\Debug\RentCar.fRegister.resources
+D:\Học tập\Lập trình hướng đối tượng\Lập trình hướng đối tượng\RentCar\RentCar\obj\Debug\RentCar.fService.resources
+D:\Học tập\Lập trình hướng đối tượng\Lập trình hướng đối tượng\RentCar\RentCar\obj\Debug\RentCar.fServiceHistory.resources
+D:\Học tập\Lập trình hướng đối tượng\Lập trình hướng đối tượng\RentCar\RentCar\obj\Debug\RentCar.fVehicle.resources
+D:\Học tập\Lập trình hướng đối tượng\Lập trình hướng đối tượng\RentCar\RentCar\obj\Debug\RentCar.fVehicleService.resources
+D:\Học tập\Lập trình hướng đối tượng\Lập trình hướng đối tượng\RentCar\RentCar\obj\Debug\RentCar.Main.resources
+D:\Học tập\Lập trình hướng đối tượng\Lập trình hướng đối tượng\RentCar\RentCar\obj\Debug\RentCar.Properties.Resources.resources
+D:\Học tập\Lập trình hướng đối tượng\Lập trình hướng đối tượng\RentCar\RentCar\obj\Debug\RentCar.csproj.GenerateResource.cache
+D:\Học tập\Lập trình hướng đối tượng\Lập trình hướng đối tượng\RentCar\RentCar\obj\Debug\RentCar.csproj.CoreCompileInputs.cache
+D:\Học tập\Lập trình hướng đối tượng\Lập trình hướng đối tượng\RentCar\RentCar\obj\Debug\RentCar.csproj.CopyComplete
+D:\Học tập\Lập trình hướng đối tượng\Lập trình hướng đối tượng\RentCar\RentCar\obj\Debug\RentCar.exe
+D:\Học tập\Lập trình hướng đối tượng\Lập trình hướng đối tượng\RentCar\RentCar\obj\Debug\RentCar.pdb
+C:\Users\lepho\Desktop\not sure what to do yet\code\oop\ass\final\ngay 7 -12\Final Submission\Final Submission\RentCar\RentCar\bin\Debug\RentCar.exe.config
+C:\Users\lepho\Desktop\not sure what to do yet\code\oop\ass\final\ngay 7 -12\Final Submission\Final Submission\RentCar\RentCar\bin\Debug\RentCar.exe
+C:\Users\lepho\Desktop\not sure what to do yet\code\oop\ass\final\ngay 7 -12\Final Submission\Final Submission\RentCar\RentCar\bin\Debug\RentCar.pdb
+C:\Users\lepho\Desktop\not sure what to do yet\code\oop\ass\final\ngay 7 -12\Final Submission\Final Submission\RentCar\RentCar\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lepho\Desktop\not sure what to do yet\code\oop\ass\final\ngay 7 -12\Final Submission\Final Submission\RentCar\RentCar\bin\Debug\Newtonsoft.Json.xml
+C:\Users\lepho\Desktop\not sure what to do yet\code\oop\ass\final\ngay 7 -12\Final Submission\Final Submission\RentCar\RentCar\obj\Debug\RentCar.csprojAssemblyReference.cache
+C:\Users\lepho\Desktop\not sure what to do yet\code\oop\ass\final\ngay 7 -12\Final Submission\Final Submission\RentCar\RentCar\obj\Debug\RentCar.AddCar.resources
+C:\Users\lepho\Desktop\not sure what to do yet\code\oop\ass\final\ngay 7 -12\Final Submission\Final Submission\RentCar\RentCar\obj\Debug\RentCar.AddContract.resources
+C:\Users\lepho\Desktop\not sure what to do yet\code\oop\ass\final\ngay 7 -12\Final Submission\Final Submission\RentCar\RentCar\obj\Debug\RentCar.AddCustomer.resources
+C:\Users\lepho\Desktop\not sure what to do yet\code\oop\ass\final\ngay 7 -12\Final Submission\Final Submission\RentCar\RentCar\obj\Debug\RentCar.fContract.resources
+C:\Users\lepho\Desktop\not sure what to do yet\code\oop\ass\final\ngay 7 -12\Final Submission\Final Submission\RentCar\RentCar\obj\Debug\RentCar.fCustomer.resources
+C:\Users\lepho\Desktop\not sure what to do yet\code\oop\ass\final\ngay 7 -12\Final Submission\Final Submission\RentCar\RentCar\obj\Debug\RentCar.fCustomerView.resources
+C:\Users\lepho\Desktop\not sure what to do yet\code\oop\ass\final\ngay 7 -12\Final Submission\Final Submission\RentCar\RentCar\obj\Debug\RentCar.fLogin.resources
+C:\Users\lepho\Desktop\not sure what to do yet\code\oop\ass\final\ngay 7 -12\Final Submission\Final Submission\RentCar\RentCar\obj\Debug\RentCar.fRegister.resources
+C:\Users\lepho\Desktop\not sure what to do yet\code\oop\ass\final\ngay 7 -12\Final Submission\Final Submission\RentCar\RentCar\obj\Debug\RentCar.fService.resources
+C:\Users\lepho\Desktop\not sure what to do yet\code\oop\ass\final\ngay 7 -12\Final Submission\Final Submission\RentCar\RentCar\obj\Debug\RentCar.fServiceHistory.resources
+C:\Users\lepho\Desktop\not sure what to do yet\code\oop\ass\final\ngay 7 -12\Final Submission\Final Submission\RentCar\RentCar\obj\Debug\RentCar.fVehicle.resources
+C:\Users\lepho\Desktop\not sure what to do yet\code\oop\ass\final\ngay 7 -12\Final Submission\Final Submission\RentCar\RentCar\obj\Debug\RentCar.fVehicleService.resources
+C:\Users\lepho\Desktop\not sure what to do yet\code\oop\ass\final\ngay 7 -12\Final Submission\Final Submission\RentCar\RentCar\obj\Debug\RentCar.Main.resources
+C:\Users\lepho\Desktop\not sure what to do yet\code\oop\ass\final\ngay 7 -12\Final Submission\Final Submission\RentCar\RentCar\obj\Debug\RentCar.Properties.Resources.resources
+C:\Users\lepho\Desktop\not sure what to do yet\code\oop\ass\final\ngay 7 -12\Final Submission\Final Submission\RentCar\RentCar\obj\Debug\RentCar.csproj.GenerateResource.cache
+C:\Users\lepho\Desktop\not sure what to do yet\code\oop\ass\final\ngay 7 -12\Final Submission\Final Submission\RentCar\RentCar\obj\Debug\RentCar.csproj.CoreCompileInputs.cache
+C:\Users\lepho\Desktop\not sure what to do yet\code\oop\ass\final\ngay 7 -12\Final Submission\Final Submission\RentCar\RentCar\obj\Debug\RentCar.csproj.CopyComplete
+C:\Users\lepho\Desktop\not sure what to do yet\code\oop\ass\final\ngay 7 -12\Final Submission\Final Submission\RentCar\RentCar\obj\Debug\RentCar.exe
+C:\Users\lepho\Desktop\not sure what to do yet\code\oop\ass\final\ngay 7 -12\Final Submission\Final Submission\RentCar\RentCar\obj\Debug\RentCar.pdb
