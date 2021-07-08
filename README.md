@@ -1,7 +1,7 @@
 # CarRentOOP
 Assignment Object Oriented Programming
 This project implemented a car rental management software. 
-Using a database connection via ado.net with my partner: Nguyen Long Nhat [email: nhat.nguyenlio_conan@hcmut.edu.vn]
+Using `MS SQL Server` database connection via `ado.net` with my partner: Nguyen Long Nhat [email: nhat.nguyenlio_conan@hcmut.edu.vn]
 ## Introduce
 How to Think in Terms of Objects: A car rental company
 A car rental company offers vehicles for rent. It manages a fleet of vehicles and a set of rental contracts. Demonstrate how you code in an OO programming language of your choosing to implement a management system for this car rental company.
